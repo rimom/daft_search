@@ -37,5 +37,5 @@ while True:
             seen_listings.add(listing_dict['id'])
             pygame.mixer.music.play()
 
-    # Wait for 5 minutes (300 seconds)
-    time.sleep(15)
+    # Wait for 1 minute (60 seconds)
+    time.sleep(60)
